@@ -1,0 +1,92 @@
+ORKG Research Field,arxiv labels,instance number,% title,% title + abstract
+Artificial Intelligence/Robotics,cs.AI cs.LG cs.MA cs.NE,8378,0.7020321984692531,0.7741411955639708
+"Hardware Systems , VLSI and circuits",cs.AR,147,0.6666666666666666,0.7391304347826086
+Theory/Algorithms,cs.CC cs.IT cs.LO,3593,0.6615553121577218,0.791907514450867
+Computational Engineering,cs.CE,277,0.0,0.4
+Computational Geometry,cs.CG,329,0.5714285714285714,0.8378378378378378
+Computational Linguistics,cs.CL,1738,0.8317025440313112,0.8934579439252337
+Cryptography and Security,cs.CR,1168,0.7062146892655368,0.8469656992084432
+Computer Vision and Pattern Recognition,cs.CV,3702,0.8020750199521149,0.8805078416728902
+Computers and Society,cs.CY,667,0.43846153846153846,0.5418994413407822
+Databases/Information Systems,cs.DB cs.DL,614,0.5668789808917197,0.7514450867052023
+"Digital Communications and Networking , Numerical Analysis/Scientific Computing",cs.DC,899,0.6761133603238867,0.734006734006734
+Discrete Mathematics and Combinatorics,cs.DM math.CO,3872,0.6464497041420119,0.7762345679012346
+Data Structures and Algorithms,cs.DS,1124,0.5785714285714286,0.7685185185185185
+Chemical Engineering,cs.ET,151,0.6666666666666666,0.6923076923076923
+Programming Languages/Compilers,cs.FL cs.PL cs.SC,701,0.5947712418300654,0.7745664739884393
+Computer Sciences,cs.GL cs.IR cs.OH,755,0.6666666666666666,0.8
+Graphics/Human Computer Interfaces,cs.GR cs.HC,686,0.49572649572649574,0.6929133858267716
+Computer Science and Game Theory,cs.GT,483,0.6341463414634146,0.7514792899408284
+Communication Technology and New Media,cs.MM,217,0.7931034482758621,0.8
+Mathematics,cs.MS math.GM math.HO math.OC math.RT,3852,0.5806122448979592,0.7156673114119922
+Numerical Analysis and Computation,cs.NA math.NA,2314,0.5719512195121951,0.6914634146341463
+Digital Communications and Networking,cs.NI cs.SI,1931,0.6330150068212824,0.7370753323485968
+OS/Networks,cs.OS cs.PF,214,0.36363636363636365,0.6666666666666666
+Robotics,cs.RO,904,0.7788018433179723,0.8888888888888888
+Electrical and Computer Engineering,cs.SD eess.SY,899,0.7669902912621359,0.8278688524590164
+Software Engineering,cs.SE,593,0.6266666666666667,0.7663043478260869
+Controls and Control Theory,cs.SY,1063,0.5853658536585366,0.699438202247191
+Econometrics,econ.EM,114,0.5,1.0
+Theoretical Economics,econ.TH,59,0,0
+Audio and Speech Processing,eess.AS,355,0.84,0.8732394366197183
+Image and Video Processing,eess.IV,657,0.6263736263736264,0.7407407407407407
+Signal Processing,eess.SP,837,0.4921875,0.48412698412698413
+Algebra,math.AC math.OA math.QA,2408,0.6836879432624113,0.7967032967032966
+Algebraic Geometry,math.AG math.KT,3084,0.7429760665972945,0.8794688457609806
+Dynamics/Dynamical Systems,math.AP math.DS,4761,0.6526645768025079,0.7997356245869134
+Geometry and Topology,math.AT math.DG math.GN math.GT math.MG math.SG,5520,0.7400516795865633,0.8262839879154078
+Analysis,math.CA math.FA,2742,0.5844444444444444,0.7491166077738516
+Category Theory,math.CT,408,0.7227722772277227,0.8135593220338984
+Complex Variables,math.CV,882,0.6374269005847953,0.7853107344632768
+Set Theory,math.GR,1134,0.6881720430107527,0.7937853107344632
+Information Theory,math.IT,2297,0.8274647887323944,0.8813333333333333
+Logic and Foundations,math.LO,659,0.625,0.8879310344827587
+Physics,math.MP cond-mat.mes-hall hep-ex hep-lat hep-ph physics.acc-ph physics.app-ph physics.class-ph physics.comp-ph physics.ed-ph physics.gen-ph physics.hist-ph physics.med-ph physics.pop-ph physics.space-ph,27872,0.7201967283224634,0.7918349035441902
+Number Theory,math.NT,2081,0.675,0.8369905956112853
+Probability,math.PR,2818,0.6542948038176034,0.795
+Group Theory,math.RA,891,0.5885416666666666,0.7142857142857143
+Applied Mathematics,math.SP cond-mat.stat-mech math-ph,8747,0.6151005334427575,0.7407407407407407
+Statistical Theory,math.ST stat.TH,2176,0.5097560975609756,0.6622162883845126
+Astrophysics and Astronomy,astro-ph,6801,0.4671837708830549,0.642668428005284
+Cosmology,astro-ph.CO,3519,0.6201044386422977,0.7169069462647444
+The Sun and the Solar System,astro-ph.EP astro-ph.SR,4394,0.7006194081211287,0.7667774086378738
+External Galaxies,astro-ph.GA,3018,0.6053864168618267,0.7292817679558011
+Physical Processes,astro-ph.HE,2735,0.6581306017925737,0.7795371498172959
+Instrumentation,astro-ph.IM physics.ins-det,2341,0.6602870813397129,0.7699724517906336
+Condensed Matter Physics,cond-mat cond-mat.dis-nn cond-mat.other cond-mat.soft,5182,0.6399082568807339,0.7428571428571429
+Materials Science and Engineering,cond-mat.mtrl-sci,4595,0.671919770773639,0.7543478260869565
+Quantum Physics,cond-mat.quant-gas hep-th quant-ph,17679,0.8044626128427865,0.8835
+"Atomic, Molecular and Optical Physics",cond-mat.str-el physics.atm-clus physics.atom-ph,5177,0.7208191126279864,0.8168546781685467
+Mechanics of Materials,cond-mat.supr-con,2398,0.8807471264367817,0.902046783625731
+"Cosmology, Relativity, and Gravity",gr-qc,5665,0.8345986984815619,0.8897550111358574
+Nonlinear Sciences,nlin.AO nlin.CD nlin.CG nlin.PS nlin.SI nucl-ex nucl-th,7141,0.7110423116615067,0.8298429319371727
+Atmospheric Sciences,physics.ao-ph,290,0.5306122448979592,0.7543859649122807
+Biological and Chemical Physics,physics.bio-ph physics.chem-ph,1795,0.528395061728395,0.6209016393442623
+Fluid Dynamics,physics.flu-dyn,1259,0.6633165829145728,0.7757009345794392
+Geophysics and Seismology,physics.geo-ph,324,0.6944444444444444,0.7272727272727273
+Optics,physics.optics,2167,0.7010159651669086,0.7936046511627907
+Plasma and Beam Physics,physics.plasm-ph,800,0.7522123893805309,0.8613445378151261
+Sociology,physics.soc-ph,1139,0.5763688760806917,0.7085427135678392
+Molecular Biology,q-bio.BM,272,0.6438356164383562,0.6710526315789473
+Cell Biology,q-bio.CB,116,0.6111111111111112,0.5
+Genetics and Genomics,q-bio.GN,158,0.5555555555555556,0.6481481481481481
+Molecular genetics,q-bio.MN,203,0.603448275862069,0.7222222222222222
+Motor Control,q-bio.NC,433,0.75,0.7898550724637681
+Biology/Integrated Biology/ Integrated Biomedical Sciences,q-bio.OT,64,0,0
+Population Biology,q-bio.PE,587,0.6763285024154589,0.7448559670781894
+"Molecular, cellular, and tissue engineering",q-bio.SC q-bio.TO,209,0.44,0.5
+General Finance,q-fin.GN,142,0.46153846153846156,0.7222222222222222
+Portfolio Management,q-fin.PM,84,0.7058823529411765,0.7333333333333333
+Pricing of Securities,q-fin.PR,106,0.5882352941176471,0.7352941176470589
+Risk Management,q-fin.RM,106,0.6333333333333333,0.76
+Statistical Finance,q-fin.ST,176,0.75,0.7183098591549296
+Trading and Market Microstructure,q-fin.TR,83,0.625,0.88
+Statistical Methodology,stat.ME,1065,0.45588235294117646,0.5811138014527845
+Artificial Intelligence,stat.ML,3167,0.6229508196721312,0.7345844504021448
+Statistics and Probability,stat.OT,61,0,0
+Medicine and Health,-,202,0.7894736842105263,0.7659574468085106
+Information Science,-,200,0.7555555555555555,0.8095238095238095
+Chemistry,-,93,0.6111111111111112,0.631578947368421
+Virology,-,89,0.5454545454545454,0.8235294117647058
+Environmental Sciences,-,39,1.0,1.0
+nolabel,-,1294,0.34536082474226804,0.453125

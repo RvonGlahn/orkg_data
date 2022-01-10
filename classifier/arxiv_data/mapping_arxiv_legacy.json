@@ -1,0 +1,20 @@
+{
+  "cmp-lg": "cs.CL",
+  "alg-geom": "math.AG",
+  "dg-ga": "math.DG",
+  "funct-an": "math.FA",
+  "q-alg": "math.QA",
+  "mtrl-th": "cond-mat.mtrl-sci",
+  "supr-con": "cond-mat.supr-con",
+  "chao-dyn": "nlin.CD",
+  "comp-gas": "nlin.CG",
+  "patt-sol": "nlin.PS",
+  "solv-int": "nlin.SI",
+  "adap-org": "nlin.AO",
+  "acc-phys": "physics.acc-ph",
+  "ao-sci": "physics.ao-ph",
+  "atom-ph": "physics.atom-ph",
+  "chem-ph": "physics.chem-ph",
+  "bayes-an": "physics.data-an",
+  "plasm-ph": "physics.plasm-ph"
+}

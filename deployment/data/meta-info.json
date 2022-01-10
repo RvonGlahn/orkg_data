@@ -1,0 +1,50 @@
+{
+  "result": {
+    "title": {
+      "custom_precision": 0.6189452154962263,
+      "custom_recall": 0.5212923684873947,
+      "custom_f1 score": 0.5671948873269808
+    },
+    "title_abstract": {
+      "custom_precision": 0.7305923550814221,
+      "custom_recall": 0.6362146425729999,
+      "custom_f1 score": 0.6801507517508029
+    }
+  },
+  "setting": {
+    "train setting": {
+      "embedder_name": "tfidf sklearn",
+      "experiments": [
+        "title",
+        "title_abstract"
+      ],
+      "batchsize": 1000000,
+      "dataset_name": "arxiv",
+      "automatic_optimization": false,
+      "arxiv label number": 165,
+      "threshold instances": 200000
+    },
+    "tune settings": {
+      "iterations": 20,
+      "stopping": true,
+      "trials": 4
+    },
+    "tune grid": {
+      "tol": [
+        1e-07,
+        0.01
+      ],
+      "alpha": [
+        1e-08,
+        0.1
+      ]
+    },
+    "sgd params": {
+      "loss": "log",
+      "max_iter": 1000,
+      "n_jobs": 4,
+      "alpha": 1e-07,
+      "tol": 1e-06
+    }
+  }
+}
